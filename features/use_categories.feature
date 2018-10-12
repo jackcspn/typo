@@ -21,6 +21,7 @@ Feature: Using Categories
         Then I should see "Category was successfully saved."
     
    
+   
     
     Scenario: Successfully edit categories
         Given the following categories exist:
