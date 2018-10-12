@@ -20,9 +20,6 @@ Feature: Using Categories
         Then I should see "MyDescription"
         Then I should see "Category was successfully saved."
     
-   
-   
-    
     Scenario: Successfully edit categories
         Given the following categories exist:
             |name        | keywords  | permalink   | description     |
