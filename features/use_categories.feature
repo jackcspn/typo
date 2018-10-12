@@ -18,6 +18,7 @@ Feature: Using Categories
         Then I should see "Bar"
         Then I should see "MyLink"
         Then I should see "MyDescription"
+        Then I should see "Category was successfully saved."
     
    
     
@@ -40,4 +41,5 @@ Feature: Using Categories
         Then I should not see "study"
         Then I should not see "123"
         Then I should not see "learning blogs"
+        Then I should see "Category was successfully saved."
 
