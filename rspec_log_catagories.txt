@@ -1,0 +1,5 @@
+........
+
+Finished in 0.88957 seconds
+8 examples, 0 failures
+Coverage report generated for RSpec to /home/ec2-user/environment/typo/coverage. 11120 / 14832 LOC (74.97%) covered.

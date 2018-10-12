@@ -20,7 +20,6 @@ production:
   password: <%= ENV['MYAPP_DATABASE_PASSWORD'] %>
 
 
-
 ##############################################
 #development:
 #  adapter: sqlite3
